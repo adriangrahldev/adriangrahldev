@@ -15,12 +15,12 @@ Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experienci
 - Herramientas: Git / NPM / Passport.
 
 ### 📫 Cómo contactarme:
-- [LinkedIn: ](https://www.linkedin.com/in/adriangrahl)
+- [LinkedIn](https://www.linkedin.com/in/adriangrahl)
 - Correo electrónico: adriangrahldev@gmail.com
-- [Instagram: ](https://www.instagram.com/adriangrahl.dev)
+- [Instagram](https://www.instagram.com/adriangrahl.dev)
 
 ### 📈 Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?adriangrahldev&show_icons=true)
 
 ### 🔍 Echa un vistazo a mis repositorios destacados
 ↓↓↓
