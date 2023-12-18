@@ -6,7 +6,6 @@ Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experienci
 
 ### 🌱 Actualmente estoy aprendiendo en...
 - Programando Paraguay #2023
-- 
 
 ### 🛠️ Mis Herramientas y Tecnologías
 - Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework y Bootstrap.
