@@ -20,7 +20,7 @@ Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experienci
 - [Instagram](https://www.instagram.com/adriangrahl.dev)
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?adriangrahldev&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adriangrahldev&show_icons=true)
 
 ### 🔍 Echa un vistazo a mis repositorios destacados
 ↓↓↓
