@@ -1,21 +1,21 @@
-# Hola, soy [Adrian Grahl] 👋
+# Hola, soy Adrian Grahl 👋
 
-## 👨‍💻 Desarrollador Full Stack Apasionado
+## 👨‍💻 Desarrollador Full Stack
 
-Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experiencia en [lenguajes o frameworks que utilizas, como JavaScript, React, Node.js, etc.]. Me encanta crear soluciones innovadoras y eficientes para problemas complejos.
+Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experiencia en PHP, MySQL, TypeScript, Angular, Ionic Framework, Laravel, Bootstrap, HTML y CSS. Me encanta crear soluciones innovadoras y eficientes para problemas complejos.
 
-### 🌱 Actualmente estoy aprendiendo / trabajando en...
-- [Nuevas tecnologías o proyectos en los que estás trabajando]
-- [Cualquier otro tema relevante para tu desarrollo profesional]
+### 🌱 Actualmente estoy aprendiendo en...
+- Programando Paraguay #2023
+- 
 
 ### 🛠️ Mis Herramientas y Tecnologías
-- Frontend: [Tecnologías que usas, como HTML, CSS, JavaScript, React, etc.]
-- Backend: [Tecnologías que usas, como Node.js, Python, PHP, etc.]
-- Base de Datos: [MySQL, MongoDB, etc.]
-- Herramientas: [Git, Docker, etc.]
+- Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework y Bootstrap.
+- Backend: PHP/Laravel y Python/DJango
+- Base de Datos: MySQL
+- Herramientas: Git / NPM / Passport.
 
 ### 📫 Cómo contactarme:
-- LinkedIn: [tu perfil de LinkedIn]
+- [LinkedIn](https://www.linkedin.com/in/adriangrahl):
 - Correo electrónico: [tu correo electrónico]
 - Twitter: [tu perfil de Twitter]
 
