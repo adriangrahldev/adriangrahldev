@@ -8,10 +8,10 @@ Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experienci
 - Programando Paraguay #2023
 
 ### 🛠️ Mis Herramientas y Tecnologías
-- Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework y Bootstrap.
-- Backend: PHP/Laravel y Python/DJango
-- Base de Datos: MySQL
-- Herramientas: Git / NPM / Passport.
+- Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework, Bootstrap y TailWind.
+- Backend: PHP / Laravel
+- Base de Datos: MySQL / SQLServer / MongoDB
+- Herramientas: Git / NPM / Apache-Linux
 
 ### 📫 Cómo contactarme:
 - [LinkedIn](https://www.linkedin.com/in/adriangrahl)
