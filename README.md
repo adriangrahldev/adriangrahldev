@@ -11,13 +11,16 @@
 ## Experiencia Laboral
 
 - **Soluntech** - Full Stack Developer
-- Desarrollo de un Sistema Integral ERP.
+
+  Desarrollo de un Sistema Integral ERP.
 
 - **Run Paraguay** - CTO y FullStack
-- Lideré el desarrollo de RUN, una plataforma de Delivery On Demand (B2B).
+
+  Lideré el desarrollo de RUN, una plataforma de Delivery On Demand (B2B).
 
 - **HECTA** - CEO y FullStack
-- Lidero el desarrollo de Hecta, una startup que ofrece un sistema de gestión y trazabilidad agrícola.
+
+  Lidero el desarrollo de Hecta, una startup que ofrece un sistema de gestión y trazabilidad agrícola.
 
 ## Educación y Certificaciones
 
