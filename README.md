@@ -1,27 +1,46 @@
-# Hola, soy Adrian Grahl 👋
+# Adrian Grahl Maciel - Desarrollador Full Stack
 
-## 👨‍💻 Desarrollador Full Stack
+¡Hola! Soy Adrian, un apasionado desarrollador Full Stack con experiencia en Java, JavaScript, TypeScript y PHP. Actualmente, trabajo como Full Stack Developer en Soluntech y anteriormente fui CTO y Full Stack en Run Paraguay, una plataforma de Delivery B2B.
 
-Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experiencia en PHP, MySQL, TypeScript, Angular, Ionic Framework, Laravel, Bootstrap, HTML y CSS. Me encanta crear soluciones innovadoras y eficientes para problemas complejos.
+## Tecnologías y Especialidades
 
-### 🌱 Actualmente estoy aprendiendo en...
-- Programando Paraguay #2023
-- Coding Dojo (FullStack/MERN)
+- Lenguajes de Programación: Java, JavaScript, TypeScript, PHP
+- Frameworks: NextJS, Laravel, Angular
+- Herramientas: Tailwind, MongoDB, ExpressJS, MySQL
 
-### 🛠️ Mis Herramientas y Tecnologías
-- Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework, Bootstrap y TailWind.
-- Backend: PHP / Laravel
-- Base de Datos: MySQL / SQLServer / MongoDB
-- Herramientas: Git / NPM / Apache-Linux
+## Experiencia Laboral
 
-### Filosofía de Desarrollo
+- **Soluntech** - Full Stack Developer
+  Desarrollo de un Sistema Integral ERP.
+
+- **Run Paraguay** - CTO y FullStack
+- Lideré el desarrollo de RUN, una plataforma de Delivery On Demand (B2B).
+
+- **HECTA**
+- Lideré el desarrollo de Hecta, una startup que ofrece un sistema de gestión y trazabilidad agrícola.
+
+## Educación y Certificaciones
+
+- Programando Paraguay
+- Bootcamp Coding Dojo (FullStack MERN)
+
+## Enfoque de Desarrollo
+
+- FullStack Developer con enfoque en desarrollo ágil.
+- Habilidades en gestión de proyectos, diseño responsivo y código limpio.
+- Apasionado por explorar nuevas tecnologías y dar soluciones innovadoras.
+
+## Filosofía de Desarrollo
+
 Creo en la flexibilidad y adaptabilidad. Busco soluciones creativas y me esfuerzo por mejorar continuamente. Mi objetivo es crear tecnología que haga la vida más fácil y emocionante.
 
-### 📫 Cómo contactarme:
-- [LinkedIn](https://www.linkedin.com/in/adriangrahl)
-- Correo electrónico: adriangrahldev@gmail.com
-- [Instagram](https://www.instagram.com/adriangrahl.dev)
+## Contacto
 
-### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adriangrahldev&show_icons=true)
+¡No dudes en ponerte en contacto conmigo! Estoy disponible en las siguientes plataformas:
 
+- **WhatsApp:** [+595971200673](https://wa.me/595971200673)
+- **Gmail:** [adriangrahldev@gmail.com](mailto:adriangrahldev@gmail.com)
+- **Instagram:** [@adriangrahl.dev](https://www.instagram.com/adriangrahl.dev/)
+- **LinkedIn:** [Adrian Grahl Maciel](https://www.linkedin.com/in/adriangrahl/)
+
+¡Espero tener noticias tuyas pronto!
