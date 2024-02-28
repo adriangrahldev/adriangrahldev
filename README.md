@@ -6,12 +6,16 @@ Bienvenido a mi perfil de GitHub! Soy un desarrollador full stack con experienci
 
 ### 🌱 Actualmente estoy aprendiendo en...
 - Programando Paraguay #2023
+- Coding Dojo (FullStack/MERN)
 
 ### 🛠️ Mis Herramientas y Tecnologías
 - Frontend: HTML, CSS, JavaScript, Angular, Ionic Framework, Bootstrap y TailWind.
 - Backend: PHP / Laravel
 - Base de Datos: MySQL / SQLServer / MongoDB
 - Herramientas: Git / NPM / Apache-Linux
+
+### Filosofía de Desarrollo
+Creo en la flexibilidad y adaptabilidad. Busco soluciones creativas y me esfuerzo por mejorar continuamente. Mi objetivo es crear tecnología que haga la vida más fácil y emocionante.
 
 ### 📫 Cómo contactarme:
 - [LinkedIn](https://www.linkedin.com/in/adriangrahl)
