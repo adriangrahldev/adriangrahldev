@@ -1,49 +1,81 @@
-# Adrian Grahl Maciel - Desarrollador Full Stack
+# Hola, soy Adrian Grahl Maciel 👋
 
-¡Hola! Soy Adrian, un apasionado desarrollador Full Stack con experiencia en Java, JavaScript, TypeScript y PHP. Actualmente, trabajo como Full Stack Developer en Soluntech y anteriormente fui CTO y Full Stack en Run Paraguay, una plataforma de Delivery B2B.
+### Desarrollador Full Stack | Apasionado por la tecnología y la automatización de procesos.
 
-## Tecnologías y Especialidades
+¡Bienvenido a mi perfil de GitHub! 🚀 Me especializo en el desarrollo de plataformas web y soluciones tecnológicas, integrando herramientas modernas para mejorar la eficiencia y escalabilidad de los proyectos. Trabajo con clientes como **Ingenio Tecnologías** y **Soluntech**, desarrollando soluciones personalizadas para sus necesidades.
 
-- Lenguajes de Programación: Java, JavaScript, TypeScript, PHP
-- Frameworks: NextJS, Laravel, Angular
-- Herramientas: Tailwind, MongoDB, ExpressJS, MySQL
+---
 
-## Experiencia Laboral
+## 🛠 Tecnologías y Herramientas
 
-- **Soluntech** - Full Stack Developer
+Estas son algunas de las tecnologías con las que trabajo regularmente:
 
-  Desarrollo de un Sistema Integral ERP.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- **Run Paraguay** - CTO y FullStack
+---
 
-  Lideré el desarrollo de RUN, una plataforma de Delivery On Demand (B2B).
+## 📌 Proyectos Destacados
 
-- **HECTA** - CEO y FullStack
+Aquí algunos de los proyectos en los que estoy trabajando:
 
-  Lidero el desarrollo de Hecta, una startup que ofrece un sistema de gestión y trazabilidad agrícola.
+### 🔧 [Fuelsat]
+Desarrollo de una plataforma para el control de abastecimientos de combustible, integrando **Wialon** para la gestión de surtidores en empresas de logística.
 
-## Educación y Certificaciones
+- **Tecnologías**: Node.js, TypeScript, Express.js, MongoDB, Wialon API.
+- **Características**:
+  - Informes detallados de abastecimientos y movimientos de stock.
+  - Dashboards personalizados con visualización en tiempo real.
 
-- Programando Paraguay
-- Bootcamp Coding Dojo (FullStack MERN)
+### 🛡 [StGuardian]
+ERP diseñado para **Soluntech**, facilitando la gestión de productos, servicios y personal.
 
-## Enfoque de Desarrollo
+- **Tecnologías**: Node.js, TypeScript, React, MongoDB.
+- **Características**:
+  - Gestión de usuarios, productos y servicios.
+  - Sistema de inventarios y ventas.
 
-- FullStack Developer con enfoque en desarrollo ágil.
-- Habilidades en gestión de proyectos, diseño responsivo y código limpio.
-- Apasionado por explorar nuevas tecnologías y dar soluciones innovadoras.
+---
 
-## Filosofía de Desarrollo
+## 🏆 Premios y Reconocimientos
 
-Creo en la flexibilidad y adaptabilidad. Busco soluciones creativas y me esfuerzo por mejorar continuamente. Mi objetivo es crear tecnología que haga la vida más fácil y emocionante.
+- **1er puesto en Startup Weekend Itapúa 2023 (AgTech)**.
+- **Certificación Full Stack MERN** en **Coding Dojo Latam 2024**, donde desarrollé un proyecto final destacado.
+- **Ganador de la Hackaton de Programando Paraguay** en la categoría IA.
+- **Mentor en Programando Paraguay**, apoyando a nuevos estudiantes en sus primeros pasos en el desarrollo de software.
+- **Taller de ChatGPT en Proyectos Personales y Profesionales**, organizado por Mujeres Programando y Programando Paraguay.
 
-## Contacto
+---
 
-¡No dudes en ponerte en contacto conmigo! Estoy disponible en las siguientes plataformas:
+## 📈 Estadísticas de GitHub
 
-- **WhatsApp:** [+595971200673](https://wa.me/595971200673)
-- **Gmail:** [adriangrahldev@gmail.com](mailto:adriangrahldev@gmail.com)
-- **Instagram:** [@adriangrahl.dev](https://www.instagram.com/adriangrahl.dev/)
-- **LinkedIn:** [Adrian Grahl Maciel](https://www.linkedin.com/in/adriangrahl/)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
-¡Espero tener noticias tuyas pronto!
+---
+
+## 🤝 Conecta conmigo
+
+¡Hablemos! Puedes encontrarme en las siguientes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-grahl-maciel)
+- [Twitter](https://twitter.com/tuusuario)
+- [Correo](mailto:adrian@example.com)
+
+---
+
+## 📚 Formación y Mentoría
+
+Soy un firme defensor del aprendizaje continuo. Comencé mi viaje en el desarrollo de software desde los 14 años y me apasiona ayudar a los desarrolladores junior a avanzar más rápido en su carrera, brindándoles el apoyo que necesitan para suvizar la curva de aprendizaje.
+
+---
+
+### 📅 ¿En qué estoy trabajando actualmente?
+
+- **[Fuelsat]**: Mejora de la plataforma de gestión de combustible.
+- **[StGuardian]**: Expansión de funcionalidades del ERP para **Soluntech**.
