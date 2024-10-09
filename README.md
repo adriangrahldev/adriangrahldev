@@ -55,7 +55,7 @@ ERP diseñado para **Soluntech**, facilitando la gestión de productos, servicio
 
 ## 📈 Estadísticas de GitHub
 
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriangrahldev&show_icons=true&theme=radical)
 
 ---
 
@@ -63,9 +63,8 @@ ERP diseñado para **Soluntech**, facilitando la gestión de productos, servicio
 
 ¡Hablemos! Puedes encontrarme en las siguientes plataformas:
 
-- [LinkedIn](https://www.linkedin.com/in/adrian-grahl-maciel)
-- [Twitter](https://twitter.com/tuusuario)
-- [Correo](mailto:adrian@example.com)
+- [LinkedIn](https://www.linkedin.com/in/adriangrahldev)
+- [Correo](mailto:adriangrahldev@gmail.com)
 
 ---
 
