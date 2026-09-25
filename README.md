@@ -1,80 +1,121 @@
-# Hola, soy Adrian Grahl Maciel 👋
+# Adrian Grahl
 
-### Desarrollador Full Stack | Apasionado por la tecnología y la automatización de procesos.
+### Software Engineer · Product Builder · AI & IoT
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Me especializo en el desarrollo de plataformas web y soluciones tecnológicas, integrando herramientas modernas para mejorar la eficiencia y escalabilidad de los proyectos. Trabajo con clientes como **Ingenio Tecnologías** y **Soluntech**, desarrollando soluciones personalizadas para sus necesidades.
+I build technology for real-world problems — from software platforms and real-time systems to AI integrations and connected products.
 
----
+Based in Paraguay, building for teams and businesses that need technology to work beyond the demo.
 
-## 🛠 Tecnologías y Herramientas
-
-Estas son algunas de las tecnologías con las que trabajo regularmente:
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[English](#english) · [Español](#español) · [LinkedIn](https://www.linkedin.com/in/adriangrahldev) · [Email](mailto:adriangrahldev@gmail.com)
 
 ---
 
-## 📌 Proyectos Destacados
+## English
 
-Aquí algunos de los proyectos en los que estoy trabajando:
+### Building systems that move real work forward
 
-### 🔧 [Fuelsat]
-Desarrollo de una plataforma para el control de abastecimientos de combustible, integrando **Wialon** para la gestión de surtidores en empresas de logística.
+I am a software engineer and product builder focused on turning operational problems into reliable digital products. My work spans product discovery, software architecture, backend and frontend development, infrastructure, integrations, and deployment.
 
-- **Tecnologías**: Node.js, TypeScript, Express.js, MongoDB, Wialon API.
-- **Características**:
-  - Informes detallados de abastecimientos y movimientos de stock.
-  - Dashboards personalizados con visualización en tiempo real.
+I am especially interested in the point where software meets the physical world: logistics, fuel management, telemetry, automation, AI agents, and IoT-connected operations.
 
-### 🛡 [StGuardian]
-ERP diseñado para **Soluntech**, facilitando la gestión de productos, servicios y personal.
+> I built my career by stepping into problems I did not yet know how to solve.
 
-- **Tecnologías**: Node.js, TypeScript, React, MongoDB.
-- **Características**:
-  - Gestión de usuarios, productos y servicios.
-  - Sistema de inventarios y ventas.
+### Selected work
+
+#### FuelSat
+
+Fuel management technology for industrial and logistics operations. I built the software platform and server infrastructure from the ground up, including backend services, business logic, real-time communication, operational dashboards, deployments, and integrations with tracking and connected devices.
+
+**Focus:** product engineering, software architecture, telemetry, real-time systems, infrastructure, and IoT integrations.
+
+#### [Advanced Trello MCP Server](https://github.com/adriangrahldev/advanced-trello-mcp-server)
+
+An open-source Model Context Protocol server that connects AI clients with Trello through a production-oriented API layer. It provides tools for boards, lists, cards, labels, actions, batch operations, and attachment handling, with validation, retry strategies, and rate-limit protection.
+
+**Focus:** TypeScript, MCP, agent tooling, API reliability, and open source.
+
+#### Open-source tools and experiments
+
+I also build focused tools around typed APIs, developer experience, and AI-enabled workflows, including [Express Zod Routes](https://github.com/adriangrahldev/express-zod-routes) and [MongoDB MCP](https://github.com/adriangrahldev/mcp-mongodb).
+
+### Recognition & community
+
+- First place — Startup Weekend Itapúa 2023, AgTech
+- Winner — Programando Paraguay AI Hackathon
+- Full Stack MERN certification — Coding Dojo Latam, 2024
+- Mentor at Programando Paraguay, supporting developers at the start of their careers
+- Speaker on using ChatGPT in personal and professional projects for Mujeres Programando and Programando Paraguay
+
+### What I work with
+
+**Product & systems:** product engineering, software architecture, real-time applications, telemetry, automation, AI agents, MCP, and IoT.
+
+**Technology:** TypeScript, Node.js, React, Next.js, Express, MongoDB, REST APIs, WebSockets, Git, and cloud infrastructure.
+
+### Builder philosophy
+
+I care about the complete path from an unclear problem to a working product: understanding the operation, making pragmatic technical decisions, shipping, observing real usage, and improving the system over time.
+
+I value ownership, clarity, useful technology, and sharing what I learn with the next generation of builders.
+
+### Let's connect
+
+If you are building a software product, an AI-native workflow, or a connected operational system, I would be glad to hear about it.
+
+[LinkedIn](https://www.linkedin.com/in/adriangrahldev) · [adriangrahldev@gmail.com](mailto:adriangrahldev@gmail.com) · [Back to top](#adrian-grahl)
 
 ---
 
-## 🏆 Premios y Reconocimientos
+## Español
 
-- **1er puesto en Startup Weekend Itapúa 2023 (AgTech)**.
-- **Certificación Full Stack MERN** en **Coding Dojo Latam 2024**, donde desarrollé un proyecto final destacado.
-- **Ganador de la Hackaton de Programando Paraguay** en la categoría IA.
-- **Mentor en Programando Paraguay**, apoyando a nuevos estudiantes en sus primeros pasos en el desarrollo de software.
-- **Taller de ChatGPT en Proyectos Personales y Profesionales**, organizado por Mujeres Programando y Programando Paraguay.
+### Construyo sistemas que hacen avanzar el trabajo real
 
----
+Soy ingeniero de software y creador de productos. Transformo problemas operativos en productos digitales confiables, trabajando desde el descubrimiento y la arquitectura hasta el desarrollo, la infraestructura, las integraciones y el despliegue.
 
-## 📈 Estadísticas de GitHub
+Me interesa especialmente el punto donde el software se encuentra con el mundo físico: logística, gestión de combustible, telemetría, automatización, agentes de IA y operaciones conectadas mediante IoT.
 
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriangrahldev&show_icons=true&theme=radical)
+> Mi carrera se construyó metiéndome en problemas que todavía no sabía resolver.
 
----
+### Trabajo seleccionado
 
-## 🤝 Conecta conmigo
+#### FuelSat
 
-¡Hablemos! Puedes encontrarme en las siguientes plataformas:
+Tecnología para la gestión de combustible en operaciones industriales y logísticas. Construí desde cero la plataforma de software y la infraestructura de servidores, incluyendo servicios backend, lógica de negocio, comunicación en tiempo real, paneles operativos, despliegues e integraciones con sistemas de rastreo y dispositivos conectados.
 
-- [LinkedIn](https://www.linkedin.com/in/adriangrahldev)
-- [Correo](mailto:adriangrahldev@gmail.com)
+**Enfoque:** ingeniería de producto, arquitectura de software, telemetría, sistemas en tiempo real, infraestructura e integraciones IoT.
 
----
+#### [Advanced Trello MCP Server](https://github.com/adriangrahldev/advanced-trello-mcp-server)
 
-## 📚 Formación y Mentoría
+Servidor open source basado en Model Context Protocol que conecta clientes de IA con Trello mediante una capa de API orientada a producción. Ofrece herramientas para tableros, listas, tarjetas, etiquetas, acciones, operaciones por lotes y archivos adjuntos, con validación, estrategias de reintento y protección ante límites de uso.
 
-Soy un firme defensor del aprendizaje continuo. Comencé mi viaje en el desarrollo de software desde los 14 años y me apasiona ayudar a los desarrolladores junior a avanzar más rápido en su carrera, brindándoles el apoyo que necesitan para suvizar la curva de aprendizaje.
+**Enfoque:** TypeScript, MCP, herramientas para agentes, confiabilidad de APIs y open source.
 
----
+#### Herramientas y experimentos open source
 
-### 📅 ¿En qué estoy trabajando actualmente?
+También desarrollo herramientas enfocadas en APIs tipadas, experiencia de desarrollo y flujos de trabajo asistidos por IA, entre ellas [Express Zod Routes](https://github.com/adriangrahldev/express-zod-routes) y [MongoDB MCP](https://github.com/adriangrahldev/mcp-mongodb).
 
-- **[Fuelsat]**: Mejora de la plataforma de gestión de combustible.
-- **[StGuardian]**: Expansión de funcionalidades del ERP para **Soluntech**.
+### Reconocimientos y comunidad
+
+- Primer puesto — Startup Weekend Itapúa 2023, categoría AgTech
+- Ganador — Hackathon de IA de Programando Paraguay
+- Certificación Full Stack MERN — Coding Dojo Latam, 2024
+- Mentor en Programando Paraguay, acompañando a desarrolladores al inicio de sus carreras
+- Tallerista sobre el uso de ChatGPT en proyectos personales y profesionales para Mujeres Programando y Programando Paraguay
+
+### Áreas y tecnologías
+
+**Productos y sistemas:** ingeniería de producto, arquitectura de software, aplicaciones en tiempo real, telemetría, automatización, agentes de IA, MCP e IoT.
+
+**Tecnologías:** TypeScript, Node.js, React, Next.js, Express, MongoDB, APIs REST, WebSockets, Git e infraestructura cloud.
+
+### Filosofía de builder
+
+Me importa el recorrido completo desde un problema poco definido hasta un producto en funcionamiento: comprender la operación, tomar decisiones técnicas pragmáticas, lanzar, observar el uso real y mejorar el sistema con el tiempo.
+
+Valoro la responsabilidad de principio a fin, la claridad, la tecnología útil y la posibilidad de compartir lo aprendido con la próxima generación de builders.
+
+### Conversemos
+
+Si estás construyendo un producto de software, un flujo de trabajo nativo de IA o un sistema operativo conectado, me gustaría conocerlo.
+
+[LinkedIn](https://www.linkedin.com/in/adriangrahldev) · [adriangrahldev@gmail.com](mailto:adriangrahldev@gmail.com) · [Volver arriba](#adrian-grahl)
