@@ -32,6 +32,10 @@ Industrial and logistics operations need reliable control over fuel supply, inve
 
 I built the software platform and server infrastructure from the ground up: backend services, business logic, real-time communication, operational dashboards, deployments, and integrations with tracking systems and connected devices.
 
+**Operational scale**
+
+So far in 2026, the platform has recorded more than **7.8 million liters of fuel** across multiple client operations. It currently supports **800+ RFID-authorized units** and approximately **40 registered dispensers**.
+
 **Scope**
 
 Product engineering, software architecture, telemetry, real-time systems, infrastructure, and IoT integrations.

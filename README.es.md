@@ -32,6 +32,10 @@ Las operaciones industriales y logísticas necesitan controlar de forma confiabl
 
 Construí desde cero la plataforma de software y la infraestructura de servidores: servicios backend, lógica de negocio, comunicación en tiempo real, paneles operativos, despliegues e integraciones con sistemas de rastreo y dispositivos conectados.
 
+**Escala operativa**
+
+En lo que va de 2026, la plataforma registró más de **7,8 millones de litros de combustible** en operaciones de distintos clientes. Actualmente soporta **más de 800 unidades autorizadas mediante RFID** y aproximadamente **40 surtidores registrados**.
+
 **Alcance**
 
 Ingeniería de producto, arquitectura de software, telemetría, sistemas en tiempo real, infraestructura e integraciones IoT.
